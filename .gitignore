@@ -1,0 +1,19 @@
+# Python-specific
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment files
+.env
+.venv/
+venv/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Datasets or sensitive data
+*.csv
+*.json
+data/
