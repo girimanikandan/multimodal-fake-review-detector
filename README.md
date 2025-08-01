@@ -31,6 +31,5 @@ class FakeReviewDetector:
         time_score = self.temporal_anomaly(review.timestamp)
         return f"Risk: {self.fuse_scores(text_score, image_score, behavior_score, time_score)}"
 ## Intellectual Property
-(c) 2025 [GIRIDHARAN M, DEENA.T.A ]. All rights reserved.  
-
+(c) 2025 [Giridharan Manikandan], [Deena T. A]. All rights reserved.
 
