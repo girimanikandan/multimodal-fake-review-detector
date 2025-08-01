@@ -32,5 +32,5 @@ class FakeReviewDetector:
         return f"Risk: {self.fuse_scores(text_score, image_score, behavior_score, time_score)}"
 ## Intellectual Property
 (c) 2025 [GIRIDHARAN M, DEENA.T.A ]. All rights reserved.  
-Prior art established via this repo.
+
 
